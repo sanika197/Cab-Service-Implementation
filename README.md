@@ -13,20 +13,20 @@ Cab Service Implementation provides facilities to 3 types of end users:
 
 Admin privileges:
 1. Get to know profit incurred, total revenue generated and monitoring total expenses on daily basis.
-2. Managing wage rate for drivers
+2. Managing wage rate for drivers.
 3. Analyzing which location incurred maximum revenue.
 
 Driver functionalities:
-1. Registration
-2. Get to know wages
-3. Automatic allocation based on location of service and cab type
+1. Registration.
+2. Get to know wages.
+3. Automatic allocation based on location of service and cab type.
 
 Passenger:
 1. Registration
-2. Booking a ride
-3. Getting to choose car type based on it's availablity
-4. Instant bill generation
+2. Booking a ride.
+3. Getting to choose car type based on it's availability.
+4. Instant bill generation.
 
 Further Scope:
-1. Cancellation of ride feature
-2. Getting feedback from passenger
+1. Cancellation of ride feature.
+2. Getting feedback from passenger.
